@@ -8,6 +8,7 @@ package com.qingniao;
  */
 public class Gittest {
     public static void main(String[] args) {
-        System.out.println("测试git");
+        System.out.println("测试......0");
+        System.out.println("修改......1");
     }
 }
